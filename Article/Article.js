@@ -114,26 +114,27 @@ const articleSection = document.querySelector('.articles')
 data.forEach(object => {
   articleSection.appendChild(createArticle(object))
 });
-const hidden = document.querySelectorAll('.hideBtn')
-hidden.forEach(item => {
-  item.style.display = 'none'
-})
+
 function createArticle(object) {
   const article = create('div');
-  article.classList.add('article')
+  article.classList.add('article');
   const articleTitle = create('h2');
   const articleDate = create('p');
-  articleDate.classList.add('date')
+  articleDate.classList.add('date');
+  const paraWrapper = create('div');
+  paraWrapper.style.overflow = 'scroll';
+  paraWrapper.style.height = '340px'
   const firstParagraph = create('p');
   const secondParagraph = create('p');
   const thirdParagraph = create('p');
   const expandButton = create('span');
   expandButton.classList.add('expandButton');
   const openBtn = create('button');
-  openBtn.textContent = '\u2630'
+  openBtn.textContent = '\u2630';
   openBtn.classList.add('expand-button')
   
-  article.append(articleTitle, articleDate, firstParagraph, secondParagraph, thirdParagraph, expandButton);
+  article.append(articleTitle, articleDate, paraWrapper, expandButton);
+  paraWrapper.append(firstParagraph, secondParagraph, thirdParagraph )
   expandButton.append(openBtn)
   
   articleTitle.textContent = object.title;
