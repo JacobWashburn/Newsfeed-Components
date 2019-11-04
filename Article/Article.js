@@ -8,19 +8,50 @@ const data = [
         moff wicket tatooine luke.Solo wampa wampa calrissian yoda moff.Darth grievous darth gonk darth hutt.Darth baba skywalker
         watto fett jango maul han.Mon ewok sidious sidious lando kenobi grievous gamorrean solo.Yoda wedge utapau darth calamari.
         Hutt calamari darth jabba.Darth dooku amidala organa moff.Boba darth binks solo hutt skywalker dantooine skywalker.Qui - gonn
-        jar twi'lek jinn leia jango skywalker mon.`,
+        jar twi 'lek jinn leia jango skywalker mon.Grievous fett calamari anakin skywalker hutt.Alderaan darth kenobi darth r2- d2
+        windu mothma.Sidious darth calamari moff.Wampa mothma sith wedge solo mara.Darth gonk maul sith moff chewbacca palpatine
+        mace amidala.C - 3 po solo skywalker anakin yoda leia.Maul wampa bespin watto jade ewok darth jabba.Lando dantooine moff
+        k - 3 po dantooine luke.Fisto mandalore darth wedge c - 3 p0 ahsoka.Secura moff palpatine fett.Anakin sith darth darth.Moff
+        solo leia ben ponda jade.Binks jango aayla skywalker skywalker cade.Mustafar darth ventress anakin watto.Yavin jawa sebulba
+        owen jinn tatooine sith organa.Grievous fett calamari anakin skywalker hutt.Alderaan darth kenobi darth r2 - d2
+        windu mothma.Sidious darth calamari moff.Wampa mothma sith wedge solo mara.Darth gonk maul sith moff chewbacca palpatine
+        mace amidala.C - 3 po solo skywalker anakin yoda leia.Maul wampa bespin watto jade ewok darth jabba.Lando dantooine moff
+        k - 3 po dantooine luke.Fisto mandalore darth wedge c - 3 p0 ahsoka.Secura moff palpatine fett.Anakin sith darth darth.Moff
+        solo leia ben ponda jade.Binks jango aayla skywalker skywalker cade.Mustafar darth ventress anakin watto.Yavin jawa sebulba
+        owen jinn tatooine sith organa.`,
 
     secondParagraph: `Grievous fett calamari anakin skywalker hutt.Alderaan darth kenobi darth r2- d2
         windu mothma.Sidious darth calamari moff.Wampa mothma sith wedge solo mara.Darth gonk maul sith moff chewbacca palpatine
         mace amidala.C - 3po solo skywalker anakin yoda leia.Maul wampa bespin watto jade ewok darth jabba.Lando dantooine moff
         k - 3po dantooine luke.Fisto mandalore darth wedge c - 3p0 ahsoka.Secura moff palpatine fett.Anakin sith darth darth.Moff
         solo leia ben ponda jade.Binks jango aayla skywalker skywalker cade.Mustafar darth ventress anakin watto.Yavin jawa sebulba
+        owen jinn tatooine sith organa.Grievous fett calamari anakin skywalker hutt.Alderaan darth kenobi darth r2 - d2
+        windu mothma.Sidious darth calamari moff.Wampa mothma sith wedge solo mara.Darth gonk maul sith moff chewbacca palpatine
+        mace amidala.C - 3 po solo skywalker anakin yoda leia.Maul wampa bespin watto jade ewok darth jabba.Lando dantooine moff
+        k - 3 po dantooine luke.Fisto mandalore darth wedge c - 3 p0 ahsoka.Secura moff palpatine fett.Anakin sith darth darth.Moff
+        solo leia ben ponda jade.Binks jango aayla skywalker skywalker cade.Mustafar darth ventress anakin watto.Yavin jawa sebulba
+        owen jinn tatooine sith organa.
+        Grievous fett calamari anakin skywalker hutt.Alderaan darth kenobi darth r2 - d2
+        windu mothma.Sidious darth calamari moff.Wampa mothma sith wedge solo mara.Darth gonk maul sith moff chewbacca palpatine
+        mace amidala.C - 3 po solo skywalker anakin yoda leia.Maul wampa bespin watto jade ewok darth jabba.Lando dantooine moff
+        k - 3 po dantooine luke.Fisto mandalore darth wedge c - 3 p0 ahsoka.Secura moff palpatine fett.Anakin sith darth darth.Moff
+        solo leia ben ponda jade.Binks jango aayla skywalker skywalker cade.Mustafar darth ventress anakin watto.Yavin jawa sebulba
         owen jinn tatooine sith organa.`,
 
     thirdParagraph: `Dagobah hutt jawa leia calamari ventress skywalker yoda. Binks wicket hutt coruscant sidious
         naboo ackbar tatooine. Hutt lars padmé darth. Maul solo darth darth jabba qui-gon chewbacca darth maul. Moff baba wicket
         han. C-3po antilles moff qui-gon ahsoka aayla dooku amidala. Palpatine droid amidala droid k-3po twi'lek padmé wookiee. Leia
-        moff calamari mon obi-wan. Solo grievous lando coruscant. Jinn darth palpatine obi-wan mon.`
+        moff calamari mon obi - wan.Solo grievous lando coruscant.Jinn darth palpatine obi - wan mon.Grievous fett calamari anakin skywalker hutt.Alderaan darth kenobi darth r2 - d2
+        windu mothma.Sidious darth calamari moff.Wampa mothma sith wedge solo mara.Darth gonk maul sith moff chewbacca palpatine
+        mace amidala.C - 3 po solo skywalker anakin yoda leia.Maul wampa bespin watto jade ewok darth jabba.Lando dantooine moff
+        k - 3 po dantooine luke.Fisto mandalore darth wedge c - 3 p0 ahsoka.Secura moff palpatine fett.Anakin sith darth darth.Moff
+        solo leia ben ponda jade.Binks jango aayla skywalker skywalker cade.Mustafar darth ventress anakin watto.Yavin jawa sebulba
+        owen jinn tatooine sith organa.Grievous fett calamari anakin skywalker hutt.Alderaan darth kenobi darth r2 - d2
+        windu mothma.Sidious darth calamari moff.Wampa mothma sith wedge solo mara.Darth gonk maul sith moff chewbacca palpatine
+        mace amidala.C - 3 po solo skywalker anakin yoda leia.Maul wampa bespin watto jade ewok darth jabba.Lando dantooine moff
+        k - 3 po dantooine luke.Fisto mandalore darth wedge c - 3 p0 ahsoka.Secura moff palpatine fett.Anakin sith darth darth.Moff
+        solo leia ben ponda jade.Binks jango aayla skywalker skywalker cade.Mustafar darth ventress anakin watto.Yavin jawa sebulba
+        owen jinn tatooine sith organa.`
   },
   {
     title: 'Javascript and You, ES6',
@@ -85,30 +116,97 @@ const data = [
     thirdParagraph: `Hodor hodor - hodor... Hodor hodor hodor hodor. Hodor. Hodor! Hodor hodor, hodor hodor hodor hodor hodor; hodor hodor? Hodor!
           Hodor hodor, HODOR hodor, hodor hodor?! Hodor! Hodor hodor, HODOR hodor, hodor hodor, hodor, hodor hodor. Hodor, hodor.
           Hodor. Hodor, hodor, hodor. Hodor hodor... Hodor hodor hodor?! Hodor, hodor... Hodor hodor HODOR hodor, hodor hodor. Hodor.`
-  }
+  },
 ];
 
-/* Step 1: Create a function that creates a component. You will want your component to look like the template below: 
+//  Step 1: Create a function that creates a component. You will want your component to look like the template below: 
   
-  <div class="article">
-    <h2>{title of the article}</h2>
-    <p class="date">{date of the article}</p>
+//   <div class="article">
+//     <h2>{title of the article}</h2>
+//     <p class="date">{date of the article}</p>
 
-    {three separate paragraph elements}
+//     {three separate paragraph elements}
 
-    <span class='expandButton'></span>
-  </div>
+//     <span class='expandButton'></span>
+//   </div>
 
-  Hint: You will need to use createElement more than once here!
+data.push({
+  title: 'This is the Title',
+  date: 'I was born sometime',
+  firstParagraph: `stuff`,
 
-  Your function should take either an object as it's one argument, or 5 separate arguments mapping to each piece of the data object above.
+  secondParagraph: `second stuff`,
 
-  Step 2: Add an event listener to the expandButton span. This event listener should toggle the class 'article-open' on the 'article' div.
+  thirdParagraph: `third stuff`
+})
 
-  Step 3: return the entire component.
+let create = el => document.createElement(el);
+const articleSection = document.querySelector('.articles')
+data.forEach(object => {
+  articleSection.appendChild(createArticle(object))
+});
 
-  Step 4: Map over the data, creating a component for each oject and add each component to the DOM as children of the 'articles' div.
+function createArticle(object) {
+  const article = create('div');
+  article.classList.add('article');
+  const articleTitle = create('h2');
+  const articleDate = create('p');
+  articleDate.classList.add('date');
+  const paraWrapper = create('div');
+  paraWrapper.style.overflow = 'scroll';
+  paraWrapper.style.height = '340px';
+  paraWrapper.style.display = 'none'
+  const firstParagraph = create('p');
+  const secondParagraph = create('p');
+  const thirdParagraph = create('p');
+  const expandButton = create('span');
+  expandButton.classList.add('expandButton');
+  const openBtn = create('button');
+  openBtn.textContent = 'View Article';
+  openBtn.classList.add('expand-button');
+  const closeBtn = create('button');
+  closeBtn.classList.add('expand-button');
+  closeBtn.textContent = 'Close Article';
+  closeBtn.style.display = 'none'
 
-  Step 5: Add a new article to the array. Make sure it is in the same format as the others. Refresh the page to see the new article.
+  
+  article.append(articleTitle, articleDate, paraWrapper, expandButton);
+  paraWrapper.append(firstParagraph, secondParagraph, thirdParagraph )
+  expandButton.append(openBtn, closeBtn)
+  
+  articleTitle.textContent = object.title;
+  articleDate.textContent = object.date;
+  firstParagraph.textContent = object.firstParagraph;
+  secondParagraph.textContent = object.secondParagraph;
+  thirdParagraph.textContent = object.thirdParagraph;
 
-*/
+  openBtn.addEventListener('click', (event) => {
+    article.classList.toggle('article-open');
+    paraWrapper.style.display = 'block';
+    openBtn.style.display = 'none';
+    closeBtn.style.display = 'block';
+  })
+  closeBtn.addEventListener('click', (event) => {
+    article.classList.toggle('article-open');
+    paraWrapper.style.display = 'none';
+    openBtn.style.display = 'block';
+    closeBtn.style.display = 'none';
+  })
+
+  return article
+}
+
+
+//   Hint: You will need to use createElement more than once here!
+
+//   Your function should take either an object as it's one argument, or 5 separate arguments mapping to each piece of the data object above.
+
+//   Step 2: Add an event listener to the expandButton span. This event listener should toggle the class 'article-open' on the 'article' div.
+
+//   Step 3: return the entire component.
+
+//   Step 4: Map over the data, creating a component for each object and add each component to the DOM as children of the 'articles' div.
+
+//   Step 5: Add a new article to the array. Make sure it is in the same format as the others. Refresh the page to see the new article.
+
+console.log(document)
